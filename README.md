@@ -36,6 +36,7 @@ Testnet WSS required for xrpl.js: `wss://s.altnet.rippletest.net:51233/`
 ### XUMM
 
 - https://xumm.app/
+- https://apps.xumm.dev/
 
 ### EVM Sidechain
 
